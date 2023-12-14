@@ -8,7 +8,7 @@ const Navbar = () => {
         <a className="ml-2 text-3xl text-neutral-800 font-bold dark:text-neutral-200" href="#">
           News.app
         </a>
-        <h3 className="mx-1 italic text-neutral-700 text-sm">by Willian Mayer</h3>
+        <h3 className="mx-1 italic text-neutral-700 text-sm font-playfair-display">by Willian Mayer</h3>
         </div>
 
         <div className="ml-5 flex w-[30%] items-center justify-between">

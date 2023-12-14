@@ -24,7 +24,7 @@ const NewsList = (props) => {
                 </h2>
                 <h3 className="italic">{article.source.name}</h3>
                 <p>{article.description}</p>
-                <a href={article.url} className="text-blue-400 font-bold">
+                <a href={article.url} className="text-blue-400 font-bold ">
                   More Info
                 </a>
               </div>
